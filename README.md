@@ -1,4 +1,4 @@
-# News-Posting-Website
+
 # News Posting Website
 
 This project is a **simple news posting website** with two main interfaces:
